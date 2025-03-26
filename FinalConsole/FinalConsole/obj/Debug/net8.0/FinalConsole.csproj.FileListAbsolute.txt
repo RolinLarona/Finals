@@ -1,0 +1,14 @@
+C:\Users\Jarehm\source\repos\FinalConsole\FinalConsole\FinalConsole\obj\Debug\net8.0\FinalConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarehm\source\repos\FinalConsole\FinalConsole\FinalConsole\obj\Debug\net8.0\FinalConsole.AssemblyInfoInputs.cache
+C:\Users\Jarehm\source\repos\FinalConsole\FinalConsole\FinalConsole\obj\Debug\net8.0\FinalConsole.AssemblyInfo.cs
+C:\Users\Jarehm\source\repos\FinalConsole\FinalConsole\FinalConsole\obj\Debug\net8.0\FinalConsole.csproj.CoreCompileInputs.cache
+C:\Users\Jarehm\source\repos\FinalConsole\FinalConsole\FinalConsole\bin\Debug\net8.0\FinalConsole.exe
+C:\Users\Jarehm\source\repos\FinalConsole\FinalConsole\FinalConsole\bin\Debug\net8.0\FinalConsole.deps.json
+C:\Users\Jarehm\source\repos\FinalConsole\FinalConsole\FinalConsole\bin\Debug\net8.0\FinalConsole.runtimeconfig.json
+C:\Users\Jarehm\source\repos\FinalConsole\FinalConsole\FinalConsole\bin\Debug\net8.0\FinalConsole.dll
+C:\Users\Jarehm\source\repos\FinalConsole\FinalConsole\FinalConsole\bin\Debug\net8.0\FinalConsole.pdb
+C:\Users\Jarehm\source\repos\FinalConsole\FinalConsole\FinalConsole\obj\Debug\net8.0\FinalConsole.dll
+C:\Users\Jarehm\source\repos\FinalConsole\FinalConsole\FinalConsole\obj\Debug\net8.0\refint\FinalConsole.dll
+C:\Users\Jarehm\source\repos\FinalConsole\FinalConsole\FinalConsole\obj\Debug\net8.0\FinalConsole.pdb
+C:\Users\Jarehm\source\repos\FinalConsole\FinalConsole\FinalConsole\obj\Debug\net8.0\FinalConsole.genruntimeconfig.cache
+C:\Users\Jarehm\source\repos\FinalConsole\FinalConsole\FinalConsole\obj\Debug\net8.0\ref\FinalConsole.dll
